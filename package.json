@@ -1,0 +1,23 @@
+{
+  "name": "iwannaeat",
+  "version": "1.0.0",
+  "description": "Classwork: Table waiting assigner!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sporego/IWANNAEAT.git"
+  },
+  "author": "Filbert Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sporego/IWANNAEAT/issues"
+  },
+  "homepage": "https://github.com/Sporego/IWANNAEAT#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  }
+}
